@@ -1,7 +1,7 @@
 backend:
   name: github
-   repo: AntoineBx/Nuxt-gitBasedCMS # Path to your GitHub repository
-  branch: main # Branch to update (optional; defaults to master)
+  repo: AntoineBx/Nuxt-gitBasedCMS
+  branch: main
 
 media_folder: static/img
 public_folder: /img
